@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning NODE JS
+- 🔭 I’m currently working on **REACT  JS**
+- 🌱 I’m currently learning **NODE JS**
 - 📫 How to reach me: 
   - [LinkedIn](https://linkedin.com/in/husain-lokhandwala-3b506a17a)
   - <Coder.husen@gmail.com>
