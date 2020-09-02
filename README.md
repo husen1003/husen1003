@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **REACT  JS**
 - 🌱 I’m currently learning **NODE JS**
--    Want to become a **MERN stack developer**.
+-    I want to become a **MERN stack developer**.
 - 📫 How to reach me: 
   - [LinkedIn](https://linkedin.com/in/husain-lokhandwala-3b506a17a)
   - <Coder.husen@gmail.com>
